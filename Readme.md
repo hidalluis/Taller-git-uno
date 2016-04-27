@@ -7,6 +7,7 @@ remote, local, branch = rama, commits.
 * `git log` --> se ve el arbol de trabajo (proceso que ha ido tomando)
 * `git status`
 * `git checkout` --> cambiarse de una a otra rama
+* `git merge <nombre de la rama>` --> Fusion de ramas
 * `git fetch`
 * `git pull`
 * `git push`
