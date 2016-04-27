@@ -6,6 +6,7 @@ remote, local, branch = rama, commits.
 * `git add` --> agregar los archivos
 * `git log` --> se ve el arbol de trabajo (proceso que ha ido tomando)
 * `git status`
+* `git checkout` --> cambiarse de una a otra rama
 * `git fetch`
 * `git pull`
 * `git push`
