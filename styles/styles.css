@@ -1,0 +1,22 @@
+h1{
+  color: red;
+}
+
+.eltitulaso{
+  color: green;
+}
+
+.segundaclase{
+  font-size: 60px;
+}
+
+/*Pendiente a enseñar las ids*/
+#articuloPrincipal{
+ background: #343434;
+}
+
+#caja{
+  height: 100px;
+  width: 100px;
+  background: teal;
+}
